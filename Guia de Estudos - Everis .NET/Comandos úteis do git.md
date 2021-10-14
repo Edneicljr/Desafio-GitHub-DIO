@@ -1,4 +1,4 @@
-Comandos do GIT úteis:
+# Comandos do GIT úteis:
 
 git init
 
@@ -25,4 +25,3 @@ git remote add origin 'endereço repositorio github"
 git pull origin master
 
 ls -a 
-
