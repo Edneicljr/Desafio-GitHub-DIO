@@ -1,0 +1,21 @@
+PO
+SM
+DEV
+
+Cerimônias SCRUM:
+
+Plan
+Daily meeting
+Review
+Retrospectiva
+
+
+Planning Poker
+Stand-up meeting
+
+Product Backlog
+
+Épicos
+Estorias 
+Tarefas
+
